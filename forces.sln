@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forces", "forces\forces.csproj", "{267B7E5C-0B23-478F-8419-4AD75ADB946F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267B7E5C-0B23-478F-8419-4AD75ADB946F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267B7E5C-0B23-478F-8419-4AD75ADB946F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267B7E5C-0B23-478F-8419-4AD75ADB946F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267B7E5C-0B23-478F-8419-4AD75ADB946F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D698733-0AEF-435C-B010-BFD125514186}
+	EndGlobalSection
+EndGlobal
